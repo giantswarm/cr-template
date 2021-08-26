@@ -18,15 +18,15 @@ require (
 	github.com/spf13/cobra v1.2.1
 	github.com/xeipuuv/gojsonschema v1.2.0
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
-	k8s.io/api v0.18.19
-	k8s.io/apiextensions-apiserver v0.18.19
-	k8s.io/apimachinery v0.18.19
-	k8s.io/cli-runtime v0.18.19
-	k8s.io/client-go v0.18.19
-	sigs.k8s.io/cluster-api v0.3.15-0.20210309173700-34de71aaaac8
-	sigs.k8s.io/cluster-api-provider-aws v0.6.4
-	sigs.k8s.io/cluster-api-provider-azure v0.4.11
-	sigs.k8s.io/controller-runtime v0.6.4
+	k8s.io/api v0.20.10
+	k8s.io/apiextensions-apiserver v0.20.10
+	k8s.io/apimachinery v0.20.10
+	k8s.io/cli-runtime v0.20.10
+	k8s.io/client-go v0.20.10
+	sigs.k8s.io/cluster-api v0.4.2
+	sigs.k8s.io/cluster-api-provider-aws v0.7.0
+	sigs.k8s.io/cluster-api-provider-azure v0.5.2
+	sigs.k8s.io/controller-runtime v0.6.5
 	sigs.k8s.io/yaml v1.2.0
 )
 
